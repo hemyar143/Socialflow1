@@ -1,0 +1,3 @@
+git add pages/index.jsx
+git commit -m "Add landing page"
+git push
