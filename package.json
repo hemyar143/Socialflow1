@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "@vercel/speed-insights": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.8"
   }
 }
